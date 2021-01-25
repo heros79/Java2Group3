@@ -2,6 +2,10 @@ package am.home;
 
 import am.home.lessonone.service.AppService;
 
+/**
+ * @author David Krchikyan
+ */
+
 public class AppRun {
 
     static AppService service;
